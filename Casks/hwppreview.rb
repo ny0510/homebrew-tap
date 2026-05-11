@@ -1,6 +1,6 @@
 cask "hwppreview" do
   version "1.0.0"
-  sha256 :no_check
+  sha256 "8e58e2e6e455a11a857fd860ff4f48aa9a4f6a4b7ceee176bf43acaa1502d5a5"
 
   url "https://github.com/ny0510/HWPPreview/releases/download/v#{version}/HWPPreview.zip"
   name "HWPPreview"
